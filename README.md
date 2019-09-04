@@ -1,1 +1,2 @@
-# termux-ssh-init
+# Termux settings
+## ssh
